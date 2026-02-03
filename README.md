@@ -69,6 +69,5 @@ This project performs sentiment analysis on Amazon Kindle Store book reviews usi
 - [Amazon Product Data (Julian McAuley, UCSD)](http://jmcauley.ucsd.edu/data/amazon/)
 
 ---
-**Author:** [Your Name]
+**Author:** Abhyudaya Tak
 
-*This project showcases practical NLP and machine learning skills for real-world text analytics.*
